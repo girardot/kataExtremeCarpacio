@@ -56,6 +56,9 @@ public class Computer {
                 return result * 0.97;
             }
         }
+        else if (order.getReduction().equals("HALF PRICE")) {
+            return result * 0.5;
+        }
         return result;
     }
 
