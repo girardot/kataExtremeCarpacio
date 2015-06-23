@@ -20,7 +20,7 @@ public class ComputerTest {
         double compute = Computer.compute(order);
 
         // Then
-        assertThat(compute).isEqualTo(1166.62);
+        assertThat(compute).isEqualTo(1157.056934);
     }
 
 }
