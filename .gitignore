@@ -46,3 +46,17 @@ tmp
 .Trashes
 ehthumbs.db
 Thumbs.db
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> a05a7f8ecde4f3b078f5064aeabe18eaa26ab845
